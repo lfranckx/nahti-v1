@@ -4,6 +4,7 @@ import { Button } from './Button';
 import './HeroSection.css';
 
 function HeroSection() {
+  console.log(process.env.PUBLIC_URL);
   return (
     <div className='hero-container'>
         <video src={`${process.env.PUBLIC_URL}/videos/video-6.mp4`} autoPlay loop muted />
