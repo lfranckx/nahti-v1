@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import './App.css';
 import Home from './components/pages/Home';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 import Classes from './components/pages/Classes';
 import About from './components/pages/About';
 import SignUp from './components/pages/SignUp';
@@ -11,7 +11,7 @@ import Schedule from './components/pages/Schedule';
 function App() {
   return (
     <>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Navbar />
         <Switch>
           <main>
