@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nahti-v1/static/css/main.09d28e24.chunk.css",
+    "main.js": "/nahti-v1/static/js/main.1d603621.chunk.js",
+    "main.js.map": "/nahti-v1/static/js/main.1d603621.chunk.js.map",
+    "runtime-main.js": "/nahti-v1/static/js/runtime-main.5848a17e.js",
+    "runtime-main.js.map": "/nahti-v1/static/js/runtime-main.5848a17e.js.map",
+    "static/js/2.43c340af.chunk.js": "/nahti-v1/static/js/2.43c340af.chunk.js",
+    "static/js/2.43c340af.chunk.js.map": "/nahti-v1/static/js/2.43c340af.chunk.js.map",
+    "index.html": "/nahti-v1/index.html",
+    "static/css/main.09d28e24.chunk.css.map": "/nahti-v1/static/css/main.09d28e24.chunk.css.map",
+    "static/js/2.43c340af.chunk.js.LICENSE.txt": "/nahti-v1/static/js/2.43c340af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5848a17e.js",
+    "static/js/2.43c340af.chunk.js",
+    "static/css/main.09d28e24.chunk.css",
+    "static/js/main.1d603621.chunk.js"
+  ]
+}
