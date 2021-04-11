@@ -10,36 +10,36 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-9.jpg'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
+              src='images/sunset.jpg'
+              text='Recharge your brain and create space in your mind'
+              label='Meditation'
               path='/classes'
             />
             <CardItem
-              src='images/img-2.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
+              src='images/yoga.jpg'
+              text='Ease your tension here. Stay calm and read on.'
+              label='Yoga'
               path='/classes'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-3.jpg'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
+              src='images/meditation.jpg'
+              text='Daily cup of thoughts, inspiration, and philosophies.'
+              label='Blog'
+              path='/about'
+            />
+            <CardItem
+              src='images/flower.jpg'
+              text='View my full range of services'
+              label='Classes'
               path='/classes'
             />
             <CardItem
-              src='images/img-4.jpg'
-              text='Experience Football on Top of the Himilayan Mountains'
-              label='Adventure'
-              path='/schdeule'
-            />
-            <CardItem
-              src='images/img-8.jpg'
-              text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
-              path='/sign-up'
+              src='images/candles.jpg'
+              text='Schedule a class or a 1:1 session with me'
+              label='Schedule'
+              path='/schedule'
             />
           </ul>
         </div>

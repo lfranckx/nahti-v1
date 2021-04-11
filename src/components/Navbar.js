@@ -30,8 +30,6 @@ function Navbar() {
         <div className='navbar-container'>
           <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
             NAHTI
-            {/*<i class='fab fa-typo3' />*/}
-            {/*<img src={"/images/yoga-icon.png"} />*/}
             &nbsp;
             <i className="fab fa-forumbee"></i>
           </Link>
