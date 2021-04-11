@@ -8,7 +8,6 @@ function HeroSection() {
     <div className='hero-container'>
         <video src='/videos/video-6.mp4' autoPlay loop muted />
         <h1>SIMPLY BE</h1>
-        {/*<span>YOU.</span>*/}
         <h2>Discover the deeper essence of YOU.</h2>
 
         <div className='hero-btns'>
@@ -17,7 +16,7 @@ function HeroSection() {
               buttonStyle='btn--outline'
               buttonSize='btn--large'
             >
-              GET STARTED
+              SUBSCRIBE
             </Button>
             <Button
               className='btns'

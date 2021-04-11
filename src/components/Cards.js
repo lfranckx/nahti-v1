@@ -31,13 +31,13 @@ function Cards() {
             />
             <CardItem
               src='images/flower.jpg'
-              text='View my full range of services'
+              text='View my full range of services.'
               label='Classes'
               path='/classes'
             />
             <CardItem
               src='images/candles.jpg'
-              text='Schedule a class or a 1:1 session with me'
+              text='Schedule a class or a 1:1 session with me.'
               label='Schedule'
               path='/schedule'
             />
